@@ -4,6 +4,3 @@
 [submodule "src/glowflow-frontend-service"]
 	path = src/glowflow-frontend-service
 	url = https://github.com/astrocadia/glowflow-frontend-service.git
-[submodule "src/glowflow-mqtt-service"]
-	path = src/glowflow-mqtt-service
-	url = https://github.com/astrocadia/glowflow-mqtt-service.git

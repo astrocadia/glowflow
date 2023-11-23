@@ -15,10 +15,6 @@ cd glowflow-ws-service
 git checkout master
 npm install
 cd ..
-cd glowflow-mqtt-service
-git checkout master
-npm install
-cd ..
 
 echo "===============================" &&
 echo "        Glowflow ready         " &&
