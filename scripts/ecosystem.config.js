@@ -13,7 +13,7 @@ module.exports = {
         {
             name: 'Glowflow WS Service',
             cwd: '../src/glowflow-ws-service',
-            script: 'node ws.js',
+            script: 'node index.js',
             instances: 1,
             watch: true,
             ignore_watch: ['node_modules'],
